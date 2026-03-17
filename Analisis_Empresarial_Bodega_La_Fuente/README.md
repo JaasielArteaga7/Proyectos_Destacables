@@ -1,20 +1,26 @@
 # Análisis empresarial – Bodega La Fuente
 
 ## Descripción
-Proyecto enfocado en el análisis tecnológico y administrativo de una empresa de reciclaje, identificando áreas de oportunidad y proponiendo mejoras en sus procesos.
+Proyecto enfocado en el diagnóstico tecnológico y administrativo de una empresa del sector reciclaje, con el objetivo de identificar áreas de mejora y proponer soluciones mediante herramientas digitales.
+
+## Contenido del repositorio
+- Reporte general del análisis (PDF)
+- Presentación del proyecto (PowerPoint)
+- Modelos de procesos As-Is y To-Be
 
 ## Enfoque del análisis
-- Diagnóstico de procesos administrativos
-- Evaluación de uso de tecnología
-- Identificación de ineficiencias
+- Evaluación de procesos actuales (As-Is)
+- Identificación de problemáticas operativas
+- Propuesta de mejora (To-Be)
+- Uso de herramientas tecnológicas para optimización
 
 ## Propuestas de mejora
-- Implementación de herramientas digitales
-- Optimización de procesos internos
-- Mejora en la organización de la información
+- Digitalización de procesos
+- Mejor organización de la información
+- Optimización del flujo de trabajo
 
 ## Objetivo del proyecto
-Aplicar conocimientos de análisis empresarial para proponer soluciones tecnológicas que optimicen el funcionamiento de una organización.
+Aplicar metodologías de análisis empresarial para mejorar la eficiencia operativa mediante soluciones tecnológicas.
 
 ## Autor
 Jaasiel Antonio Delgado Arteaga
